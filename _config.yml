@@ -1,13 +1,13 @@
 # "/" + 仓库的名字. 资源文件的路径组成部分
 baseurl: "/CYN"
-
+name :"sjr"
 # 网页的标题
 title: "一只小猪咪"
-username: yourname
+subTitle: ""哇！！！大美女！！！🎧"
 # 网站副标题
 
 description: "哇！！！大美女！！！🎧"
-
+aboutme: "⚠️注意"
 
 
 # 其它配置, 可忽略, 无需修改
